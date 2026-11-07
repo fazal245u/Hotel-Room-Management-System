@@ -1,0 +1,7 @@
+C:\Users\Fazalkhan\Desktop\hottel\HotelRoomManagement\bin\Debug\HotelRoomManagement.exe
+C:\Users\Fazalkhan\Desktop\hottel\HotelRoomManagement\bin\Debug\HotelRoomManagement.pdb
+C:\Users\Fazalkhan\Desktop\hottel\HotelRoomManagement\obj\Debug\HotelRoomManagement.csprojResolveAssemblyReference.cache
+C:\Users\Fazalkhan\Desktop\hottel\HotelRoomManagement\obj\Debug\HotelRoomManagement.exe
+C:\Users\Fazalkhan\Desktop\hottel\HotelRoomManagement\obj\Debug\HotelRoomManagement.pdb
+C:\Users\Fazalkhan\Desktop\hottel\HotelRoomManagement\obj\Debug\HotelRoomManagement.MainForm.resources
+C:\Users\Fazalkhan\Desktop\hottel\HotelRoomManagement\obj\Debug\HotelRoomManagement.csproj.GenerateResource.Cache
